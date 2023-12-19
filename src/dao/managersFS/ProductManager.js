@@ -1,6 +1,6 @@
 import { promises as fs } from "fs";
 import path from "path";
-import __dirname from "../utils.js";
+import __dirname from "../../utils.js";
 
 
 class ProductManager {
